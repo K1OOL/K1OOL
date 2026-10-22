@@ -1,16 +1,26 @@
-## Hi there 👋
-
-<!--
-**K1OOL/K1OOL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+<br>  
+  <table>
+    <tr>
+      <td>
+     <img 
+   <img width="30" alt="image" src="https://github.com/user-attachments/assets/2daf8c8a-4e83-4bd5-af02-dc9202a7e78a" />
+${\textsf{\color{#9084A4} 𝓘}}$ 
+${\textsf{\color{#706B8B} 𝓫𝓮𝓵𝓲𝓮𝓿𝓮}}$
+${\textsf{\color{#686075} 𝓽𝓱𝓪𝓽}}$ 
+${\textsf{\color{#E5F4D9} 𝓰𝓸𝓸𝓭}}$
+${\textsf{\color{#ECF9BE} 𝓽𝓱𝓲𝓷𝓰𝓼,}}$
+        <br>
+${\textsf{\color{#937BA1} 𝓸𝓷𝓵𝔂}}$ 
+${\textsf{\color{#776494} 𝓬𝓸𝓶𝓮}}$ 
+${\textsf{\color{#FBEEC7} 𝓽𝓸}}$ 
+${\textsf{\color{#EFFBC7} 𝓽𝓱𝓸𝓼𝓮}}$ 
+${\textsf{\color{#E2FBC7} 𝔀𝓱𝓸}}$ 
+${\textsf{\color{#D4FBC7} 𝔀𝓪𝓲𝓽.}}$ 
+${\textsf{\color{#ECDCEC}  જ⁀➴ ♡}}$ 
+<img width="70" alt="image" src="https://github.com/user-attachments/assets/ed2a2611-fc58-4609-954e-cc191d36f83d" /
+   <br>
+      </td>
+    </tr>
+  </table>
+  <sub></sub>
